@@ -1,2 +1,2 @@
-# PWGEN---Password-Generator
+# PWGEN-Password-Generator
 Its an local password generator. 
